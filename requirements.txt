@@ -1,3 +1,3 @@
-import numpy
-import streamlit
-import sckit-learn
+numpy
+streamlit
+sckit-learn
