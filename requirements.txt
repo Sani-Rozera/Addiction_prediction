@@ -1,4 +1,5 @@
 numpy
 streamlit
-sckit-learn
+scikit-learn
+
 
