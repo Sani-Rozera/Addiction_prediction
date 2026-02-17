@@ -21,6 +21,7 @@ streamlit run app.py
 
 Python • NumPy • Pandas • Scikit-learn • Streamlit
 
+check this app by this link: https://addictionprediction-vdk2sqwy2ut2bkwvt6jpyc.streamlit.app/
 
 -> Features
 
